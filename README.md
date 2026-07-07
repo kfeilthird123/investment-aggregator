@@ -1,0 +1,2 @@
+# investment-aggregator
+Value Investing
